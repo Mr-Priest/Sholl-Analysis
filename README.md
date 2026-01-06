@@ -19,7 +19,8 @@ image_path = "**EXAMPLE.tif**"  # Replace with your image path
 <img width="1897" height="1013" alt="image" src="https://github.com/user-attachments/assets/a0ddea0f-689d-4388-91dc-81c082441f46" />
 
 
-3. Excel and Sholl plot will be saved to folder "excel" and "plots"
+3. Excel and Sholl plot will be saved to folder "excel" and "plots".
+The plot shows the "original image", "skeletonized image with circles" and the "original image with circles"
 
 <img width="2559" height="873" alt="image" src="https://github.com/user-attachments/assets/eea8f7a9-4972-4066-93b2-73de34257aa0" />
 
